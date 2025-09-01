@@ -1,5 +1,5 @@
-# security-project
-A project that covers custom configuration, role-based authorization, social login, and jwt token
+# spring-boot-social-login
+This repository shows you how to configure and setup social login using spring boot
 
 # Authentication
 - via Sign up and Login (Username and password)
